@@ -202,5 +202,4 @@ Databricks-Demo/
 ## 👩‍💻 Author
 
 **Harini Praveen**, BI / Data Analyst, Espoo, Finland
-Microsoft PL-300 · DP-700 · Google Cloud Professional Data Engineer
-[LinkedIn](#) · [GitHub](#)
+
